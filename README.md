@@ -1,6 +1,13 @@
 # Farmacía Que Vende Remédio De Curar Pessoas Bem Legal(FQVRDCPBL)
 
 **Está software é pensadado e desenvolvido para Fármacias que buscam vender seus produtos com maior eficiencia e proteçao**
+# Indice
+**Instalação**
+**Requisitos**
+**Tecnologias**
+**Como contribuir**
+**Licença**
+**Autor/Creditos**
 
 ## Instalação
 **Passo 1:**
@@ -49,7 +56,7 @@
  **git checkout -b fix/correcao-login**
 
  **git checkout -b feat/tela-cadastro**
- 
+
  **git checkout -b docs/atualizacao-readme**
 
 ## Licença
