@@ -40,15 +40,17 @@
 
 
  ## Requisitos
-**Node.js, TypeScript, computador🤣🤣**
+**Node.js, TypeScript, Git bash , computador🤣🤣**
 
 ## Tecnologias
 **TypeScript, Express, MySql e Node.js**
 
 ## Como contribuir
- **-git checkout -b fix/correcao-login**
- **-git checkout -b feat/tela-cadastro**
- **-git checkout -b docs/atualizacao-readme**
+ **git checkout -b fix/correcao-login**
+
+ **git checkout -b feat/tela-cadastro**
+ 
+ **git checkout -b docs/atualizacao-readme**
 
 ## Licença
 *Este software e patentiado e licensiado com Apache 2.0*
