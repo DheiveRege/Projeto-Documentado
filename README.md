@@ -7,10 +7,10 @@
             abre o git bash e execute **git init**
 
 **Passo 2:**
-            Execute git clone + Link que te enviei e, cd farmacia-FQVRDCPBL
+            Execute **git clone + Link que te enviei** e, **cd farmacia-FQVRDCPBL**
 
 **Passo 3:**
-            Execute npm install
+            Execute **npm install**
 
 
 ## Como usar
@@ -24,7 +24,7 @@
 
 **Modificar Preço** 
             Funçao utilizada para um reajuste de preço do produto.
-        -------------------
+
         para o caixa:
 
 **Modificar quantidade** 
@@ -46,12 +46,12 @@
 **TypeScript, Express, MySql e Node.js**
 
 ## Como contribuir
- **git checkout -b fix/correcao-login**
- **git checkout -b feat/tela-cadastro**
- **git checkout -b docs/atualizacao-readme**
+ **-git checkout -b fix/correcao-login**
+ **-git checkout -b feat/tela-cadastro**
+ **-git checkout -b docs/atualizacao-readme**
 
 ## Licença
-    Este software e patentiado e licensiado com Apache 2.0
+*Este software e patentiado e licensiado com Apache 2.0*
     
 ## Autor/Creditos
     eu mesmo kkkk dheive
