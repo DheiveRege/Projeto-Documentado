@@ -66,7 +66,7 @@
  **git checkout -b docs/atualizacao-readme**
 
 ## Licença
-*Este software e patentiado e licensiado com Apache 2.0*
+*Este software e patentiado e licensiado com MIT*
     
 ## Autor/Creditos
     eu mesmo kkkk dheive
